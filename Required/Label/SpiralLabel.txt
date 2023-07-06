@@ -1,0 +1,2 @@
+footer_youtube:={texture:{name:nextrixlogo, height:128},action:{type:URL,data:https://www.youtube.com/@nextrixvfx}}
+footer_github:={texture:{name:GithubLogo, height:128},action:{type:URL,data:https://github.com/ExtortedNextrix}}

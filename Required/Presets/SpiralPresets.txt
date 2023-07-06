@@ -1,0 +1,64 @@
+Hurricane
+_min = 40
+_max = 100
+_vigSmooth = 5
+_blur = 0.4
+_comp = 0.5
+_scale = -1
+_speed = 10
+_linesColor = 0,0.9620137,1,1
+_power = 5
+_rb = 0
+_rbs = 1
+
+Bloodworms
+_length = 0.549
+_zoomInOut = 0.761
+_max = 32.8
+_alpha = 0.468
+_vigSmooth = 5
+_scale = 20
+_linesColor = 1,0,0,1
+_invert = -1
+_power = 10
+
+BlackHole
+_dirTog = 1
+_length = 0.454
+_max = 54.3
+_blur = 0.727
+_comp = -0.32
+_scale = 5
+_centerTog = 0
+_invert = -1
+
+BlueFlow
+_length = 0.869
+_max = 55
+_Vignett = 0.163
+_blur = 0.603
+_comp = 2.46
+_scale = 3.3
+_speed = 3
+_centerTog = 0
+_centerColor = 0,0,0,1
+_linesColor = 0,0.7505078,1,1
+_HlinesColor = 0.1981132,0.1981132,0.1981132,1
+_invert = -1
+_power = 10
+
+Rainbow
+_dirTog = 1
+_length = 0.588
+_zoomInOut = 0.713
+_blur = 0.88
+_comp = 0.76
+_scale = 6
+_speed = 3.2
+_centerColor = 0.2264151,0.2264151,0.2264151,1
+_invert = -1
+_power = 10
+_rTog = 1
+_rb = 0.574
+_rbs = 0.435
+
